@@ -29,16 +29,26 @@ Answer the following questions based on your understanding of the installation a
 
    -Python Environments:
     If you’re working with Python, create a local environment using virtual environments or Anaconda. You can do this by opening the Command Palette  Ctrl+Shift+P, searching for “Python: Create Environment,” and selecting either Venv or Conda1.
-    -Settings and Configuration:
-    Use the search bar (Ctrl +, or Cmd +,) to efficiently locate specific settings. For example, you can adjust the “Editor: Font Size” or other preferences.
+    
+ -Settings and Configuration:
+   
+   Use the search bar (Ctrl +, or Cmd +,) to efficiently locate specific settings. For example, you can adjust the “Editor: Font Size” or other preferences.
     Customize settings through the UI or directly in the settings.json file for a tailored coding environment2.
-    -Extensions:
-    Install relevant extensions based on your programming language or framework. 
+    
+   -Extensions:
+   
+   Install relevant extensions based on your programming language or framework. 
+   
     Python: “Python” by Microsoft
+    
     JavaScript/TypeScript: “ESLint,” “Prettier,” and “Debugger for Chrome”
+    
     Web Development: “Live Server,” “HTML CSS Support,” and “Auto Rename Tag”
+    
     Git: “GitLens” for enhanced Git integration
+    
     Themes: Explore themes like “Material Theme” or “Dracula Official”
+    
     Productivity: “Code Spell Checker” for typo detection
 
 3. User Interface Overview:
@@ -47,10 +57,14 @@ Answer the following questions based on your understanding of the installation a
 -Visual Studio Code  has a layout with five main areas:
 
    -Editor Area, this is where you edit your files. You can open multiple editors side by .
-    -Side Bar, the Side Bar contains various views, such as the Explorer, which helps you while working on your project.
-    -Status Bar, it provides information about the opened project and the files you’re editing.
-    -Activity Bar, it is  located on the far left and  it lets you switch between views and provides context-specific indicators .
-    -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
+   
+   -Side Bar, the Side Bar contains various views, such as the Explorer, which helps you while working on your project.
+   
+   -Status Bar, it provides information about the opened project and the files you’re editing.
+   
+   -Activity Bar, it is  located on the far left and  it lets you switch between views and provides context-specific indicators .
+   
+   -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
@@ -115,14 +129,15 @@ Answer the following questions based on your understanding of the installation a
    - Keyboard shortcuts:
      
      Toggle terminal panel:  Windows Ctrl+
+     
     Create a new terminal: Windows Ctrl+Shift+P
 
-   -Advantages of the Integrated Terminal:
+  -Advantages of the Integrated Terminal:
    
-    Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
-    Context Awareness ,the working directory is automatically set to your open workspace folder.
-    Theme Integration the terminal theme matches your VS Code theme for consistency.
-    Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
+   Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
+   Context Awareness ,the working directory is automatically set to your open workspace folder.
+   Theme Integration the terminal theme matches your VS Code theme for consistency.
+   Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
 
 8. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
@@ -131,8 +146,11 @@ Answer the following questions based on your understanding of the installation a
 
    
      Use File > Open Folder… and select a folder.
+   
      If launching VS Code from a terminal, pass the folder path as an argument.
+   
     Single-folder workspaces are automatically created when you open a folder in VS Code.
+   
     Multi-root workspaces involve opening a .code-workspace JSON file listing all folders.
 
   - Creating Files and Folders:
