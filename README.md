@@ -31,6 +31,7 @@ Answer the following questions based on your understanding of the installation a
     Search for an extension by name or functionality.
     Click the “Install” button to add an extension to your workspace.
  -Examples of Essential Extensions for Web Development:
+ 
     javascript(ES6)
     CSS Peek
     Auto Close Tag
