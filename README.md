@@ -219,17 +219,20 @@ Answer the following questions based on your understanding of the installation a
     Use the Git: Clone command in the Command Palette (Ctrl+Shift+P).
     Authenticate with GitHub if cloning from there.
     Select a repository to clone.
+    "git clone https"
 
 -To initialize a new local Git repository:
 
     Open an existing or new folder in VS Code.
     In the Source Control view, click the “Initialize Repository” button. This creates a new Git repository in the folder, allowing you to track code changes.
+    "git init"
 
 -Commit Changes:
 
     Make code changes in your files.
     In the Source Control view, stage the changes by clicking the “+” icon next to the modified files.
     Enter a commit message and click the checkmark icon to commit your changes.
+    "git commit -m "type your message here"
 
 -Create and Switch Branches:
 
@@ -246,6 +249,7 @@ Publish to GitHub:
     -Use the Publish to GitHub command to create a new repository on your GitHub account.
     -Choose a name, description, and whether it’s public or private.
     -VS Code pushes your local code to the remote repository.
+    - "git push origin main"
 SOURCES USED :
 
      -git documentation :https://git-scm.com/doc
