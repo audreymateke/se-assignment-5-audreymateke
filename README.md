@@ -49,16 +49,34 @@ Answer the following questions based on your understanding of the installation a
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
-7. File and Folder Management:
+     
+ -How to open and use the integrated terminal in VS Code
+
+
+  Opening the Integrated Terminal:
+  You can open the integrated terminal in VS Code using these methods:
+  From the menu: Go to Terminal > New Terminal or View > Terminal.
+  From the Command Palette :Use the View: Toggle Terminal command.
+  In the Explorer:, right-click a folder and choose Open in Integrated Terminal.
+  Keyboard shortcuts:
+  Toggle terminal panel:  Windows Ctrl+
+  Create a new terminal: Windows Ctrl+Shift+P
+  Advantages of the Integrated Terminal:
+  Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
+  Context Awareness ,the working directory is automatically set to your open workspace folder.
+  Theme Integration the terminal theme matches your VS Code theme for consistency.
+  Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
+
+8. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 
-8. Settings and Preferences:
+9. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
-9. Debugging in VS Code:
+10. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 
-10. Using Source Control:
+11. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
  Submission Guidelines:
