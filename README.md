@@ -246,7 +246,11 @@ Publish to GitHub:
     -Use the Publish to GitHub command to create a new repository on your GitHub account.
     -Choose a name, description, and whether it’s public or private.
     -VS Code pushes your local code to the remote repository.
+SOURCES USED :
 
+     -git documentation :https://git-scm.com/doc
+    -visual studio code : https://code.visualstudio.com/docs/introvideos/basics
+    -gemini AI
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
