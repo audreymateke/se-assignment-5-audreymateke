@@ -50,22 +50,22 @@ Answer the following questions based on your understanding of the installation a
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
      
- -How to open and use the integrated terminal in VS Code
-
-
-  Opening the Integrated Terminal:
-  You can open the integrated terminal in VS Code using these methods:
-  From the menu: Go to Terminal > New Terminal or View > Terminal.
-  From the Command Palette :Use the View: Toggle Terminal command.
-  In the Explorer:, right-click a folder and choose Open in Integrated Terminal.
-  Keyboard shortcuts:
-  Toggle terminal panel:  Windows Ctrl+
-  Create a new terminal: Windows Ctrl+Shift+P
-  Advantages of the Integrated Terminal:
-  Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
-  Context Awareness ,the working directory is automatically set to your open workspace folder.
-  Theme Integration the terminal theme matches your VS Code theme for consistency.
-  Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
+ -How to open and use the integrated terminal in VS Code:
+ 
+ 
+     Opening the Integrated Terminal:
+     You can open the integrated terminal in VS Code using these methods:
+     From the menu: Go to Terminal > New Terminal or View > Terminal.
+     From the Command Palette :Use the View: Toggle Terminal command.
+     In the Explorer:, right-click a folder and choose Open in Integrated Terminal.
+     Keyboard shortcuts:
+     Toggle terminal panel:  Windows Ctrl+
+    Create a new terminal: Windows Ctrl+Shift+P
+    Advantages of the Integrated Terminal:
+    Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
+    Context Awareness ,the working directory is automatically set to your open workspace folder.
+    Theme Integration the terminal theme matches your VS Code theme for consistency.
+    Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
 
 8. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
