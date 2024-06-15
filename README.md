@@ -28,7 +28,9 @@ Answer the following questions based on your understanding of the installation a
 -When setting up Visual Studio Code (VS Code) for an optimal coding environment, consider the following steps:
 
    -Python Environments:
-    If you’re working with Python, create a local environment using virtual environments or Anaconda. You can do this by opening the Command Palette  Ctrl+Shift+P, searching for “Python: Create Environment,” and selecting either Venv or Conda1.
+   
+   If you’re working with Python, create a local environment using virtual environments or Anaconda. You 
+   can do this by opening the Command Palette  Ctrl+Shift+P, searching for “Python: Create Environment,” and selecting either Venv or Conda1.
     
  -Settings and Configuration:
    
@@ -71,8 +73,9 @@ Answer the following questions based on your understanding of the installation a
      
 - Command Palette:
 
-      The Command Palette in Visual Studio Code (VS Code) is apowerful tool that allows you to access various 
+  The Command Palette in Visual Studio Code (VS Code) is apowerful tool that allows you to access various 
       features and commands directly using keyboard shortcuts
+  
 -To open the Command Palette, you can use the keyboard shortcut Ctrl+Shift+P
 
 -Provide examples of common tasks that can be performed using the Command Palette.
@@ -90,7 +93,8 @@ Answer the following questions based on your understanding of the installation a
   
  -Role of extensions in VS code:
   
-    Visual Studio Code (VS Code) extensions play a crucial role in enhancing your development workflow.
+   Visual Studio Code (VS Code) extensions play a crucial role in enhancing your development workflow.
+   
  -Finding and Installing Extensions:
      
     Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
@@ -130,7 +134,7 @@ Answer the following questions based on your understanding of the installation a
      
      Toggle terminal panel:  Windows Ctrl+
      
-    Create a new terminal: Windows Ctrl+Shift+P
+   Create a new terminal: Windows Ctrl+Shift+P
 
   -Advantages of the Integrated Terminal:
    
@@ -239,9 +243,9 @@ Answer the following questions based on your understanding of the installation a
     
 Publish to GitHub:
 
-     Use the Publish to GitHub command to create a new repository on your GitHub account.
-    Choose a name, description, and whether it’s public or private.
-    VS Code pushes your local code to the remote repository.
+    -Use the Publish to GitHub command to create a new repository on your GitHub account.
+    -Choose a name, description, and whether it’s public or private.
+    -VS Code pushes your local code to the remote repository.
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
