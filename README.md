@@ -21,6 +21,15 @@ Answer the following questions based on your understanding of the installation a
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+  
+  -Role of extensions in VS code:
+  
+    Visual Studio Code (VS Code) extensions play a crucial role in enhancing your development workflow.
+   -Finding and Installing Extensions:
+     
+     Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
+     Search for an extension by name or functionality.
+    Click the “Install” button to add an extension to your workspace.
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
