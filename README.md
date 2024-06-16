@@ -182,7 +182,7 @@ Answer the following questions based on your understanding of the installation a
    Use the Explorer view to browse, open, and manage files and folders.
   Consider using extensions like File Bunny for efficient file operations within your workspace1.
 
-9. Settings and Preferences:
+8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
 - To customize settings in Visual Studio Code (VS Code), follow these steps:
