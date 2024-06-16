@@ -11,15 +11,21 @@ Answer the following questions based on your understanding of the installation a
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
  -Steps to download and install Visual Studio Code on Windows 11:
 
-     Download Visual Studio Code:
-         Visit the official Visual Studio Code download page.
-         Choose the version specific to your OS (Windows 11 in this case).
-         The download process will start automatically.
-     -Installation:
+   Download Visual Studio Code:
+     
+     Visit the official Visual Studio Code download page.
+     
+      Choose the version specific to your OS (Windows 11 in this case).
+     
+     The download process will start automatically.
+     
+   -Installation:
  
       Once the download is complete, open the downloaded file.
-          Accept the license agreement.
-         Select the drive location where you want to install Visual Studio Code.
+     
+     Accept the license agreement.
+     
+     Select the drive location where you want to install Visual Studio Code.
      
 
 2. First-time Setup:
@@ -27,7 +33,7 @@ Answer the following questions based on your understanding of the installation a
 
 -When setting up Visual Studio Code (VS Code) for an optimal coding environment, consider the following steps:
 
-   -Python Environments:
+  -Python Environments:
    
    If you’re working with Python, create a local environment using virtual environments or Anaconda. You 
    can do this by opening the Command Palette  Ctrl+Shift+P, searching for “Python: Create Environment,” and selecting either Venv or Conda1.
@@ -80,7 +86,7 @@ Answer the following questions based on your understanding of the installation a
 
 -Provide examples of common tasks that can be performed using the Command Palette.
 
-    You can  run and execute commands 
+   You can  run and execute commands 
     you can change settings 
     you can install extensions 
     you can also navigate to files and symbols 
@@ -97,7 +103,7 @@ Answer the following questions based on your understanding of the installation a
    
  -Finding and Installing Extensions:
      
-    Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
+   Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
     Search for an extension by name or functionality.
     Click the “Install” button to add an extension to your workspace.
  -Examples of Essential Extensions for Web Development:
@@ -144,7 +150,7 @@ Answer the following questions based on your understanding of the installation a
  - To open a workspace:
 
    
-     Use File > Open Folder… and select a folder.
+   Use File > Open Folder… and select a folder.
    
      If launching VS Code from a terminal, pass the folder path as an argument.
    
@@ -206,19 +212,21 @@ Answer the following questions based on your understanding of the installation a
 
 -Install Git: 
 
-     First, ensure that Git is installed on your computer. If it’s missing, VS Code will prompt you to install it. Restart VS Code after installation.
+  -First, ensure that Git is installed on your computer. If it’s missing, VS Code will prompt you to install it. Restart VS Code after installation.
 
 -Open a Git Repository:
 -To clone an existing repository:
 
-    Use the Git: Clone command in the Command Palette (Ctrl+Shift+P).
+   Use the Git: Clone command in the Command Palette (Ctrl+Shift+P).
     Authenticate with GitHub if cloning from there.
     Select a repository to clone.
-    "git clone  " https- link"
+    Use :
+    
+       -git clone  " https- link"
 
 -To initialize a new local Git repository:
 
-    Open an existing or new folder in VS Code.
+   Open an existing or new folder in VS Code.
     In the Source Control view, click the “Initialize Repository” button. This creates a new Git repository in the folder, allowing you to track code changes.
     - Use  :
     
@@ -239,7 +247,7 @@ Answer the following questions based on your understanding of the installation a
 
 -Compare and Merge:
 
-    Compare changes between branches using the gutter overview.
+   Compare changes between branches using the gutter overview.
     Merge changes from one branch into another using the Git: Merge command.
     Use :
 
@@ -247,7 +255,7 @@ Answer the following questions based on your understanding of the installation a
     
 Publish to GitHub:
 
-    -Use the Publish to GitHub command to create a new repository on your GitHub account.
+   -Use the Publish to GitHub command to create a new repository on your GitHub account.
     -Choose a name, description, and whether it’s public or private.
     -VS Code pushes your local code to the remote repository.
     -Use :
