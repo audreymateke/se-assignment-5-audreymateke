@@ -11,13 +11,13 @@ Answer the following questions based on your understanding of the installation a
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
  -Steps to download and install Visual Studio Code on Windows 11:
 
-         Download Visual Studio Code:
+     Download Visual Studio Code:
          Visit the official Visual Studio Code download page.
          Choose the version specific to your OS (Windows 11 in this case).
          The download process will start automatically.
      -Installation:
  
-           Once the download is complete, open the downloaded file.
+      Once the download is complete, open the downloaded file.
           Accept the license agreement.
          Select the drive location where you want to install Visual Studio Code.
      
@@ -73,7 +73,7 @@ Answer the following questions based on your understanding of the installation a
      
 - Command Palette:
 
-  The Command Palette in Visual Studio Code (VS Code) is apowerful tool that allows you to access various 
+  The Command Palette in Visual Studio Code is a tool that allows you to access various 
       features and commands directly using keyboard shortcuts
   
 -To open the Command Palette, you can use the keyboard shortcut Ctrl+Shift+P
@@ -110,12 +110,7 @@ Answer the following questions based on your understanding of the installation a
     Prettier
    
  
-   
-
-
-   
-   
-
+  
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
@@ -219,20 +214,23 @@ Answer the following questions based on your understanding of the installation a
     Use the Git: Clone command in the Command Palette (Ctrl+Shift+P).
     Authenticate with GitHub if cloning from there.
     Select a repository to clone.
-    "git clone https"
+    "git clone  " https- link"
 
 -To initialize a new local Git repository:
 
     Open an existing or new folder in VS Code.
     In the Source Control view, click the “Initialize Repository” button. This creates a new Git repository in the folder, allowing you to track code changes.
-    "git init"
+    - Use  :
+    
+         "git init"
 
 -Commit Changes:
 
-    Make code changes in your files.
-    In the Source Control view, stage the changes by clicking the “+” icon next to the modified files.
-    Enter a commit message and click the checkmark icon to commit your changes.
-    "git commit -m "type your message here"
+   Make code changes in your files.
+   In the Source Control view, stage the changes by clicking the “+” icon next to the modified files.
+   -Enter a commit message and click the checkmark icon to commit your changes.
+   
+            "git commit -m "type your message here"
 
 -Create and Switch Branches:
 
@@ -243,13 +241,19 @@ Answer the following questions based on your understanding of the installation a
 
     Compare changes between branches using the gutter overview.
     Merge changes from one branch into another using the Git: Merge command.
+    Use :
+
+         -git merge 
     
 Publish to GitHub:
 
     -Use the Publish to GitHub command to create a new repository on your GitHub account.
     -Choose a name, description, and whether it’s public or private.
     -VS Code pushes your local code to the remote repository.
-    - "git push origin main"
+    -Use :
+    
+              "git push origin main"
+              
 SOURCES USED :
 
      -git documentation :https://git-scm.com/doc
