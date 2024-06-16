@@ -267,6 +267,10 @@ SOURCES USED :
      -git documentation :https://git-scm.com/doc
     -visual studio code : https://code.visualstudio.com/docs/introvideos/basics
     -gemini AI
+
+  - DOCUMENTATION WITH SCREENSHOTS:
+
+         https://docs.google.com/document/d/1Wl0Ls1Y_52DuJTGdIRckJtk4kwcSD6sdnbmol3qSkvg/edit?usp=sharing
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
