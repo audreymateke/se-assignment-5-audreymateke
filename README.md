@@ -147,7 +147,7 @@ Answer the following questions based on your understanding of the installation a
    Theme Integration the terminal theme matches your VS Code theme for consistency.
    Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
 
-8. File and Folder Management:
+7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
    
  - To open a workspace:
@@ -171,7 +171,7 @@ Answer the following questions based on your understanding of the installation a
    Use the Explorer view to browse, open, and manage files and folders.
   Consider using extensions like File Bunny for efficient file operations within your workspace1.
 
-9. Settings and Preferences:
+8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
 - To customize settings in Visual Studio Code (VS Code), follow these steps:
@@ -193,7 +193,7 @@ Answer the following questions based on your understanding of the installation a
   -Adjust Font Size: Modify the font size to your preference. Look for the setting named editor.fontSize.
   -Configure Key Bindings: View and modify default keyboard shortcuts for editing, navigation, and other actions.
 
-10. Debugging in VS Code:
+9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
     
 - the steps to set up and start debugging:
@@ -209,7 +209,7 @@ Answer the following questions based on your understanding of the installation a
    -Continue Execution: Resume execution after pausing at breakpoints or stepping through code.
    -Fix Errors: As you identify issues, make necessary changes to your code.
 
-11. Using Source Control:
+10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
  - The process of integrating Git with Visual Studio Code  for version control:
 
@@ -267,7 +267,6 @@ Publish to GitHub:
               
 SOURCES USED :
 
-     -git documentation :https://git-scm.com/doc
     -visual studio code : https://code.visualstudio.com/docs/introvideos/basics
     -gemini AI
 
