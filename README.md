@@ -23,11 +23,22 @@ Answer the following questions based on your understanding of the installation a
      
    -Installation:
  
-      Once the download is complete, open the downloaded file.
+      -Once the download is complete, open the downloaded file.
      
-     Accept the license agreement.
+      -Accept the license agreement.
      
-     Select the drive location where you want to install Visual Studio Code.
+       -Select the drive location where you want to install Visual Studio Code.
+    -Run the Installer:
+       -  Locate the downloaded file (usually in your Downloads folder).
+      -   Double-click the installer to run it.
+      -   Follow the on-screen prompts to complete the installation.
+       -   Optionally, check the box to add VS Code to your PATH for easier command-line access.
+       - Complete Installation: After installation, launch Visual Studio Code from the Start Menu or desktop shortcut. 
+
+  -Prerequisites:
+
+     -Windows 11 operating system
+    -Internet connection to download the installer
      
 
 2. First-time Setup:
@@ -101,13 +112,13 @@ Answer the following questions based on your understanding of the installation a
   
  -Role of extensions in VS code:
   
-   Visual Studio Code (VS Code) extensions play a crucial role in enhancing your development workflow.
+   -Visual Studio Code (VS Code) extensions play a crucial role in enhancing your development workflow.
    
  -Finding and Installing Extensions:
      
-   Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
-    Search for an extension by name or functionality.
-    Click the “Install” button to add an extension to your workspace.
+   -Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
+   - Search for an extension by name or functionality.
+    -Click the “Install” button to add an extension to your workspace.
     
  -Examples of Essential Extensions for Web Development:
  
@@ -129,35 +140,35 @@ Answer the following questions based on your understanding of the installation a
  
    - Opening the Integrated Terminal:
      
-     You can open the integrated terminal in VS Code using these methods:
-     From the menu: Go to Terminal > New Terminal or View > Terminal.
-     From the Command Palette :Use the View: Toggle Terminal command.
-     In the Explorer:, right-click a folder and choose Open in Integrated Terminal.
+      -You can open the integrated terminal in VS Code using these methods:
+     -From the menu: Go to Terminal > New Terminal or View > Terminal.
+      -From the Command Palette :Use the View: Toggle Terminal command.
+      -In the Explorer:, right-click a folder and choose Open in Integrated Terminal.
      
    - Keyboard shortcuts:
      
-     Toggle terminal panel:  Windows Ctrl+
+      -Toggle terminal panel:  Windows Ctrl+
      
-   Create a new terminal: Windows Ctrl+Shift+P
+      Create a new terminal: Windows Ctrl+Shift+P
 
  -Advantages of the Integrated Terminal:
    
-   Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
-   Context Awareness ,the working directory is automatically set to your open workspace folder.
-   Theme Integration the terminal theme matches your VS Code theme for consistency.
-   Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
+   -Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
+   -Context Awareness ,the working directory is automatically set to your open workspace folder.
+   -Theme Integration the terminal theme matches your VS Code theme for consistency.
+   -Customization, you can fully customize terminal settings, including shell, fonts, and scrollback.
 
-8. File and Folder Management:
+7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
    
  - To open a workspace:
 
    
-   Use File > Open Folder… and select a folder.
+    -Use File > Open Folder… and select a folder.
    
-     If launching VS Code from a terminal, pass the folder path as an argument.
+     -If launching VS Code from a terminal, pass the folder path as an argument.
    
-    Single-folder workspaces are automatically created when you open a folder in VS Code.
+    -Single-folder workspaces are automatically created when you open a folder in VS Code.
    
     Multi-root workspaces involve opening a .code-workspace JSON file listing all folders.
 
@@ -170,8 +181,12 @@ Answer the following questions based on your understanding of the installation a
 
    Use the Explorer view to browse, open, and manage files and folders.
   Consider using extensions like File Bunny for efficient file operations within your workspace1.
+  
+SOURCE:
 
-9. Settings and Preferences:
+     -VS Code File and Folder Management
+
+8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
 - To customize settings in Visual Studio Code (VS Code), follow these steps:
@@ -193,7 +208,7 @@ Answer the following questions based on your understanding of the installation a
   -Adjust Font Size: Modify the font size to your preference. Look for the setting named editor.fontSize.
   -Configure Key Bindings: View and modify default keyboard shortcuts for editing, navigation, and other actions.
 
-10. Debugging in VS Code:
+9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
     
 - the steps to set up and start debugging:
@@ -209,7 +224,7 @@ Answer the following questions based on your understanding of the installation a
    -Continue Execution: Resume execution after pausing at breakpoints or stepping through code.
    -Fix Errors: As you identify issues, make necessary changes to your code.
 
-11. Using Source Control:
+10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
  - The process of integrating Git with Visual Studio Code  for version control:
 
