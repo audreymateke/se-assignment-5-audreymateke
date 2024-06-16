@@ -74,7 +74,7 @@ Answer the following questions based on your understanding of the installation a
    
      -Activity Bar, it is  located on the far left and  it lets you switch between views and provides context-specific indicators .
    
-       -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
+    -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
