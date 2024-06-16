@@ -33,9 +33,9 @@ Answer the following questions based on your understanding of the installation a
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
--When setting up Visual Studio Code (VS Code) for an optimal coding environment, consider the following steps:
+   -When setting up Visual Studio Code (VS Code) for an optimal coding environment, consider the following steps:
 
-  -Python Environments:
+-Python Environments:
    
    If you’re working with Python, create a local environment using virtual environments or Anaconda. You 
    can do this by opening the Command Palette  Ctrl+Shift+P, searching for “Python: Create Environment,” and selecting either Venv or Conda1.
@@ -45,9 +45,9 @@ Answer the following questions based on your understanding of the installation a
    Use the search bar (Ctrl +, or Cmd +,) to efficiently locate specific settings. For example, you can adjust the “Editor: Font Size” or other preferences.
     Customize settings through the UI or directly in the settings.json file for a tailored coding environment2.
     
-   -Extensions:
+  -Extensions:
    
-   Install relevant extensions based on your programming language or framework. 
+  - Install relevant extensions based on your programming language or framework. 
    
     Python: “Python” by Microsoft
     
@@ -64,17 +64,17 @@ Answer the following questions based on your understanding of the installation a
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
      
--Visual Studio Code  has a layout with five main areas:
+   -Visual Studio Code  has a layout with five main areas:
 
-   -Editor Area, this is where you edit your files. You can open multiple editors side by .
+      -Editor Area, this is where you edit your files. You can open multiple editors side by .
    
-   -Side Bar, the Side Bar contains various views, such as the Explorer, which helps you while working on your project.
+      -Side Bar, the Side Bar contains various views, such as the Explorer, which helps you while working on your project.
    
-   -Status Bar, it provides information about the opened project and the files you’re editing.
+      -Status Bar, it provides information about the opened project and the files you’re editing.
    
-   -Activity Bar, it is  located on the far left and  it lets you switch between views and provides context-specific indicators .
+     -Activity Bar, it is  located on the far left and  it lets you switch between views and provides context-specific indicators .
    
-   -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
+       -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
@@ -108,6 +108,7 @@ Answer the following questions based on your understanding of the installation a
    Open VS Code and click on the Extensions icon in the Activity Bar Ctrl+Shift+X on Windows.
     Search for an extension by name or functionality.
     Click the “Install” button to add an extension to your workspace.
+    
  -Examples of Essential Extensions for Web Development:
  
     javascript(ES6)
@@ -139,7 +140,7 @@ Answer the following questions based on your understanding of the installation a
      
    Create a new terminal: Windows Ctrl+Shift+P
 
-  -Advantages of the Integrated Terminal:
+ -Advantages of the Integrated Terminal:
    
    Convenience -No need to switch between apps or windows, the terminal is right within VS Code.
    Context Awareness ,the working directory is automatically set to your open workspace folder.
@@ -167,7 +168,7 @@ Answer the following questions based on your understanding of the installation a
     
  -Navigating Efficiently:
 
-  Use the Explorer view to browse, open, and manage files and folders.
+   Use the Explorer view to browse, open, and manage files and folders.
   Consider using extensions like File Bunny for efficient file operations within your workspace1.
 
 9. Settings and Preferences:
@@ -175,7 +176,7 @@ Answer the following questions based on your understanding of the installation a
 
 - To customize settings in Visual Studio Code (VS Code), follow these steps:
 
-   -Open the Settings Editor:
+-Open the Settings Editor:
   
   -Navigate to File > Preferences > Settings.
   -Alternatively, use the Command Palette (⇧⌘P or Ctrl+Shift+P) and search for “Preferences: Open Settings.”
