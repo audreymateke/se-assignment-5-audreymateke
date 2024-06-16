@@ -85,7 +85,7 @@ Answer the following questions based on your understanding of the installation a
    
      -Activity Bar, it is  located on the far left and  it lets you switch between views and provides context-specific indicators .
    
-       -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
+    -Panel, it is below the editor region and the Panel contains output, debug info, errors, warnings, and an integrated terminal.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
@@ -181,12 +181,8 @@ Answer the following questions based on your understanding of the installation a
 
    Use the Explorer view to browse, open, and manage files and folders.
   Consider using extensions like File Bunny for efficient file operations within your workspace1.
-  
-SOURCE:
 
-     -VS Code File and Folder Management
-
-8. Settings and Preferences:
+9. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
 - To customize settings in Visual Studio Code (VS Code), follow these steps:
@@ -282,7 +278,6 @@ Publish to GitHub:
               
 SOURCES USED :
 
-     -git documentation :https://git-scm.com/doc
     -visual studio code : https://code.visualstudio.com/docs/introvideos/basics
     -gemini AI
 
